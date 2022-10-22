@@ -1,0 +1,24 @@
+body{
+background-color: #e0e6a1;
+}
+
+#btncapture{
+    background-color: #2d48fa;
+    color: white;
+}
+
+#btncheck{
+    background-color: #2d48fa;
+    color: white;
+}
+
+#name_of_objects{
+color:#561b63 ;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 1px black solid;
+    
+}
